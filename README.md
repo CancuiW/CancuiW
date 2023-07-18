@@ -10,7 +10,9 @@ Welcome to my Github page! I am currently finishing my Master degree in Informat
 
 #### :computer: Programming languages and tools: 
 <p>
-
+  
+<code><img width="10%" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
