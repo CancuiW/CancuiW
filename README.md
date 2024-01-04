@@ -4,10 +4,10 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cuicansophia@gmail.com)
 <br />
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Welcome to my Github page! I am currently finishing my Master degree in Information Science at the university of Wayne State!
+Welcome to my Github page! I am currently finishing my Master degree in Information Science Wayne State University!
 #### 🌱 Things I am currently working on: 
 - Finishing my Master Degree  
-- Taking online courses about Full Stack
+- Taking online courses on Fullstack Development through BloomTech
 
 #### :computer: Programming languages and tools: 
 <p>
